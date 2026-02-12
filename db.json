@@ -23,6 +23,13 @@
           "rating": 4,
           "text": "Fries were a bit cold.",
           "avatar": "https://i.pravatar.cc/150?u=102"
+        },
+        {
+          "id": 103,
+          "name": "Bob Brown",
+          "rating": 5,
+          "text": "Best fast food in the area.",
+          "avatar": "https://i.pravatar.cc/150?u=103"
         }
       ]
     },
@@ -42,6 +49,298 @@
           "rating": 5,
           "text": "Best sushi in town!",
           "avatar": "https://i.pravatar.cc/150?u=201"
+        },
+        {
+          "id": 202,
+          "name": "Charlie Day",
+          "rating": 4,
+          "text": "Very fresh ingredients.",
+          "avatar": "https://i.pravatar.cc/150?u=202"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pizza Hut",
+      "category": "Italian",
+      "rating": 4.2,
+      "priceRange": "$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500",
+      "description": "Delectable pizzas for everyone.",
+      "reviews": [
+        {
+          "id": 301,
+          "name": "David Miller",
+          "rating": 4,
+          "text": "Classic pizza, never fails.",
+          "avatar": "https://i.pravatar.cc/150?u=301"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Starbucks",
+      "category": "Cafe",
+      "rating": 4.0,
+      "priceRange": "$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500",
+      "description": "Your favorite coffee spot.",
+      "reviews": [
+        {
+          "id": 401,
+          "name": "Eve Adams",
+          "rating": 5,
+          "text": "Perfect place to work and sip coffee.",
+          "avatar": "https://i.pravatar.cc/150?u=401"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pasta House",
+      "category": "Italian",
+      "rating": 4.4,
+      "priceRange": "$$",
+      "isOpen": false,
+      "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?w=500",
+      "description": "Homemade pasta with love.",
+      "reviews": [
+        {
+          "id": 501,
+          "name": "Frank White",
+          "rating": 5,
+          "text": "The Carbonara is amazing.",
+          "avatar": "https://i.pravatar.cc/150?u=501"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Thai Garden",
+      "category": "Thai",
+      "rating": 4.6,
+      "priceRange": "$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=500",
+      "description": "Spicy and flavorful Thai cuisine.",
+      "reviews": [
+        {
+          "id": 601,
+          "name": "Grace Lee",
+          "rating": 4,
+          "text": "Pad Thai was excellent.",
+          "avatar": "https://i.pravatar.cc/150?u=601"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Steakhouse",
+      "category": "Grill",
+      "rating": 4.9,
+      "priceRange": "$$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1546241072-48010ad28c2c?w=500",
+      "description": "Premium cuts of steak.",
+      "reviews": [
+        {
+          "id": 701,
+          "name": "Henry Ford",
+          "rating": 5,
+          "text": "Best ribeye I've ever had.",
+          "avatar": "https://i.pravatar.cc/150?u=701"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "McDonald's",
+      "category": "Fast Food",
+      "rating": 4.1,
+      "priceRange": "$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=500",
+      "description": "I'm Lovin' It.",
+      "reviews": [
+        {
+          "id": 801,
+          "name": "Irene Adler",
+          "rating": 4,
+          "text": "Quick and consistent.",
+          "avatar": "https://i.pravatar.cc/150?u=801"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ramen Ya",
+      "category": "Japanese",
+      "rating": 4.7,
+      "priceRange": "$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500",
+      "description": "Authentic Japanese ramen.",
+      "reviews": [
+        {
+          "id": 901,
+          "name": "James Watson",
+          "rating": 5,
+          "text": "The Tonkotsu is legendary!",
+          "avatar": "https://i.pravatar.cc/150?u=901"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Taco Bell",
+      "category": "Mexican",
+      "rating": 3.9,
+      "priceRange": "$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=500",
+      "description": "Live Mas.",
+      "reviews": [
+        {
+          "id": 1001,
+          "name": "Katie Holmes",
+          "rating": 4,
+          "text": "Good for late night cravings.",
+          "avatar": "https://i.pravatar.cc/150?u=1001"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Subway",
+      "category": "Sandwiches",
+      "rating": 4.2,
+      "priceRange": "$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?w=500",
+      "description": "Eat Fresh.",
+      "reviews": [
+        {
+          "id": 1101,
+          "name": "Leo Tolstoy",
+          "rating": 4,
+          "text": "Fresh veggies every time.",
+          "avatar": "https://i.pravatar.cc/150?u=1101"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "KFC",
+      "category": "Fast Food",
+      "rating": 4.3,
+      "priceRange": "$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1513639776629-7b61b0ac49cb?w=500",
+      "description": "Finger Lickin' Good.",
+      "reviews": [
+        {
+          "id": 1201,
+          "name": "Mary Shelley",
+          "rating": 4,
+          "text": "The original recipe is still the best.",
+          "avatar": "https://i.pravatar.cc/150?u=1201"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Domino's",
+      "category": "Pizza",
+      "rating": 4.0,
+      "priceRange": "$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=500",
+      "description": "Hot and fresh pizza delivery.",
+      "reviews": [
+        {
+          "id": 1301,
+          "name": "Nancy Drew",
+          "rating": 4,
+          "text": "Fastest delivery in town.",
+          "avatar": "https://i.pravatar.cc/150?u=1301"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Olive Garden",
+      "category": "Italian",
+      "rating": 4.1,
+      "priceRange": "$$",
+      "isOpen": false,
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=500",
+      "description": "When you're here, you're family.",
+      "reviews": [
+        {
+          "id": 1401,
+          "name": "Oscar Wilde",
+          "rating": 4,
+          "text": "Breadsticks are to die for.",
+          "avatar": "https://i.pravatar.cc/150?u=1401"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Chipotle",
+      "category": "Mexican",
+      "rating": 4.5,
+      "priceRange": "$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1562059390-a761a084768e?w=500",
+      "description": "Food with integrity.",
+      "reviews": [
+        {
+          "id": 1501,
+          "name": "Paul Auster",
+          "rating": 5,
+          "text": "The burrito bowls are excellent.",
+          "avatar": "https://i.pravatar.cc/150?u=1501"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "P.F. Chang's",
+      "category": "Chinese",
+      "rating": 4.6,
+      "priceRange": "$$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=500",
+      "description": "Farm to wok Asian cuisine.",
+      "reviews": [
+        {
+          "id": 1601,
+          "name": "Quentin Tarantino",
+          "rating": 5,
+          "text": "Dynamite Shrimp is a must try.",
+          "avatar": "https://i.pravatar.cc/150?u=1601"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Red Lobster",
+      "category": "Seafood",
+      "rating": 4.4,
+      "priceRange": "$$$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1559703248-dcaaec9fab78?w=500",
+      "description": "Fresh seafood for every appetite.",
+      "reviews": [
+        {
+          "id": 1701,
+          "name": "Robert Frost",
+          "rating": 5,
+          "text": "Cheddar Bay Biscuits are addictive.",
+          "avatar": "https://i.pravatar.cc/150?u=1701"
         }
       ]
     }
