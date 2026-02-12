@@ -1,0 +1,49 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "category": "Fast Food",
+      "rating": 4.5,
+      "priceRange": "$",
+      "isOpen": true,
+      "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500",
+      "description": "The home of the Whopper.",
+      "reviews": [
+        {
+          "id": 101,
+          "name": "John Doe",
+          "rating": 5,
+          "text": "Great burgers!",
+          "avatar": "https://i.pravatar.cc/150?u=101"
+        },
+        {
+          "id": 102,
+          "name": "Jane Smith",
+          "rating": 4,
+          "text": "Fries were a bit cold.",
+          "avatar": "https://i.pravatar.cc/150?u=102"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sushi Tei",
+      "category": "Japanese",
+      "rating": 4.8,
+      "priceRange": "$$$",
+      "isOpen": false,
+      "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=500",
+      "description": "Authentic Japanese sushi.",
+      "reviews": [
+        {
+          "id": 201,
+          "name": "Alice Wonderland",
+          "rating": 5,
+          "text": "Best sushi in town!",
+          "avatar": "https://i.pravatar.cc/150?u=201"
+        }
+      ]
+    }
+  ]
+}
